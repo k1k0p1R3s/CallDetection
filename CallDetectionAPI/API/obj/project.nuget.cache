@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JlMDyVaMDTM=",
+  "success": true,
+  "projectFilePath": "/Users/fpires/Documents/MEIC/ES/Implementacao/CallDetectionAPI/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/fpires/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/Users/fpires/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
